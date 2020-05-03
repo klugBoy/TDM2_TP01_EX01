@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <string-array name="colors">
+        <item>White</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="values">
+        <item>#ffffff</item>
+        <item>#D81B60</item>
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+    </string-array>
+</resources>
